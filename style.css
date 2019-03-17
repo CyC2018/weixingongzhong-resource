@@ -1,0 +1,42 @@
+img,
+pre code {
+    box-shadow: 0px 0px 15px 3px #ddd;
+    border-radius: 8px !important;
+}
+
+img {
+    width: 95%;
+    margin-left: 10px;
+    text-align: center;
+}
+
+img.mimg {
+    width: 250px !important;
+    text-align: center;
+    margin: auto !important;
+}
+
+
+img.simg {
+    width: 150px !important;
+    text-align: center;
+    margin: auto !important;
+}
+
+pre code {
+    padding: 15px !important;
+    margin: 0px !important;
+}
+
+pre code {
+    white-space: nowrap !imortant;
+    word-break: normal !important;
+    display: -webkit-box !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+}
+
+
+pre code {
+    margin: 30px 8px 20px 8px !important;
+}
