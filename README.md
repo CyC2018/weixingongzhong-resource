@@ -2,5 +2,4 @@
 
 可以直接将这个样式放入 Md2All 编辑器中。
 
-
-![](style.css-demo.png)
+<img src="style.css-demo.png" width="400px">
